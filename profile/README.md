@@ -13,6 +13,7 @@
 | :--- | :--- |
 | **[zhoumu](https://github.com/zhoumu-app/zhoumu)** | 主仓库。iPhone 应用 + 手表应用 + 小组件 + 灵动岛，**Release 在这里** |
 | **[zhoumu-android](https://github.com/zhoumu-app/zhoumu-android)** | **Android 版**，功能和 iPhone 版一致（去掉灵动岛），**[APK 在这里](https://github.com/zhoumu-app/zhoumu-android/releases/latest)** |
+| **[zhoumu-video](https://github.com/zhoumu-app/zhoumu-video)** | 宣传视频工程（Remotion），**更新视频在这里** |
 | **[zhoumu-watch](https://github.com/zhoumu-app/zhoumu-watch)** | 手表部分的**代码副本**，方便单独浏览，不发布 Release |
  
 ## 功能一览
