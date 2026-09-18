@@ -2,8 +2,20 @@
  
 **打开就知道今天是第几周、今天上什么课。**
  
-一个极简的开学周目 / 课表工具。iPhone、Apple Watch、Android、桌面小组件、灵动岛、表盘复杂功能。
+一个极简的开学周目 / 课表工具。
 **不联网、不要账号、不收集任何数据。**
+
+## 按平台找
+
+| 平台 | 去哪 |
+| :--- | :--- |
+| 🤖 **Android** | [**下载 APK**](https://github.com/zhoumu-app/zhoumu-android/releases/latest) · [源码](https://github.com/zhoumu-app/zhoumu-android) |
+| 📱 **iPhone** | [**下载 IPA**](https://github.com/zhoumu-app/zhoumu/releases/latest) · [源码](https://github.com/zhoumu-app/zhoumu) |
+| ⌚️ **Apple Watch** | 随 iPhone 应用一起安装，不用单独下 |
+| 🎬 **宣传视频** | [视频工程](https://github.com/zhoumu-app/zhoumu-video) |
+
+> Android 版和 iPhone 版功能一致，只是没有灵动岛（Android 没这东西）。
+> iPhone 版另外还有桌面小组件、灵动岛实时活动、Apple Watch 表盘复杂功能。
  
 ---
  
